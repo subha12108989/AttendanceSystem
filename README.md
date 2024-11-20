@@ -35,7 +35,7 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Android Studio</li>
  	<li>Latest Version</li>
  	<li>Internet Connection</li>
- 	<li>Java</li>
+ 	<li>Kottlin</li>
 </ul>
 <h3>Admin Login</h3>
 <ul>
